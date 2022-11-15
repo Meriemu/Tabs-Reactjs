@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tabs-Reactjs/static/css/main.999c18b8.css",
+    "main.js": "/Tabs-Reactjs/static/js/main.297577c5.js",
+    "index.html": "/Tabs-Reactjs/index.html",
+    "main.999c18b8.css.map": "/Tabs-Reactjs/static/css/main.999c18b8.css.map",
+    "main.297577c5.js.map": "/Tabs-Reactjs/static/js/main.297577c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999c18b8.css",
+    "static/js/main.297577c5.js"
+  ]
+}
